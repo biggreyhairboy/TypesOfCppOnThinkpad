@@ -24,5 +24,6 @@ int main()
 
 	getchar();
 
-		http://pan.baidu.com/share/link?shareid=1822202541&uk=2687743559 
+	//bicyclesuv邀请您访问萌日资源站|Acg|hentai资源站|E-hentaiの精选
+//http://www.mracg.com/?fromuser=bicyclesuv
 }
